@@ -1,0 +1,2 @@
+lib/fastjson-1.2.68.jar/com.alibaba.fastjson/JSON
+lib/mysql-connector-java-8.0.20.jar/java.sql

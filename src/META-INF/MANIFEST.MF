@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.company.Main
+Class-Path: lib/commons-io-2.5.jar lib/fastjson-1.2.68.jar lib/mysql-con
+ nector-java-8.0.20.jar
+
